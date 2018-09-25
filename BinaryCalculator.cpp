@@ -1,6 +1,5 @@
-//  Project description
-//  Your Name
-//  Date starts the project
+//  Binary Calculator
+//  Nicholas Heyd
 
 #include "stdafx.h"
 #include <iostream>
